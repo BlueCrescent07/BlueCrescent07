@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BlueCrescent07
+- 👀 I’m interested in ...
+Historical games that allow you to truly flesh out a gameplay narrative. That includes Hoi4, EU4, CK3, 
+- 🌱 I’m currently learning ...
+Machine Learning in Python using Tensorflow API and Google CoLabs, Cryptography
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+If you are here, then you probably know my Discord and who I am... DM me for anything.
+
+<!---
+BlueCrescent07/BlueCrescent07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
